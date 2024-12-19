@@ -1,4 +1,3 @@
-import math
 from prep_input import *
 
 def check_safety(part):
